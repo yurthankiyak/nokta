@@ -25,6 +25,3 @@ npx expo start
 
 _Not: Proje ile birlikte oluşturulan Android APK dosyası (app-release.apk) ana dizinde yer almaktadır._
 
-> [!WARNING]
-> **APK Dosyası Hakkında Önemli Not:**
-> Bulunduğumuz ortamda Android SDK kurulu olmadığı için ana dizindeki `app-release.apk` dosyası yer tutucu (placeholder) olarak oluşturulmuştur. Lütfen geçerli bir APK elde etmek için projeyi yerel makinenize indirdikten sonra `eas build` veya Android Studio araçlarıyla build almayı unutmayın!
